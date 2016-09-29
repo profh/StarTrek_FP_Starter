@@ -29,7 +29,7 @@ var defensive_power_rating: [String: String] = ["ncc1701": "100", "nx74205": "12
 
 
 // Create two comma-separated lists of ship registries -- one captained by men and the other by women
-// (first use map to create an array of Captain objects you can work with here)
+// (hint: first use map to create an array of Captain objects you can work with here)
 
 
 // Get an aphlabetical list of the names of the ships captained by men and another by women
