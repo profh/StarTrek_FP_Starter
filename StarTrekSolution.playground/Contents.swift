@@ -3,9 +3,9 @@
 
 var characters: [String: String] = ["kirk": "TOS", "spock": "TOS", "picard": "TNG", "janeway": "VOY", "scotty": "TOS", "sisko": "DS9", "kira": "DS9", "chakotay": "VOY", "seven": "VOY", "dax": "DS9", "tuvok": "VOY", "tpol": "ENT", "riker": "TNG", "troi": "TNG"]
 
-var series: [String: String] = ["TOS": "The Original Series", "NTG": "The Next Generation", "DS9": "Deep Space 9", "VOY": "Voyager", "ENT": "Enterprise", "DIS" : "Star Trek Discovery"]
+var series: [String: String] = ["TOS": "The Original Series", "TNG": "The Next Generation", "DS9": "Deep Space 9", "VOY": "Voyager", "ENT": "Enterprise", "DIS" : "Star Trek Discovery"]
 
-var runtimes: [String: [Int]] = ["TOS": [1966, 1969], "NTG": [1987, 1994], "DS9": [1993, 1999], "VOY": [1995, 2001] , "ENT": [2001, 2004]]
+var runtimes: [String: [Int]] = ["TOS": [1966, 1969], "TNG": [1987, 1994], "DS9": [1993, 1999], "VOY": [1995, 2001] , "ENT": [2001, 2004]]
 
 var captains: [String: String] = ["kirk": "ncc1701", "sisko": "nx74205", "janeway": "ncc74656", "picard": "ncc1701d"]
 
